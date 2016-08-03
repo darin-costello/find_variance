@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>find_varience</name>
+  <name>find_variance</name>
   <version>0.0.0</version>
   <description>The april_tag_follower package</description>
 
