@@ -1,0 +1,3 @@
+Find variance drives a robot in a 200 X 200 square. After the robot completes a circuit  the robot's maximum and average deviation are displayed on the terminal.
+
+Depends on mm_apriltag_tracker
